@@ -1,7 +1,6 @@
 # 🌐 Freelancer Portfolio  
 
-A responsive **freelancer portfolio website** built with **React** and **Tailwind CSS**.  
-This project was created as part of **Codantix Internship – Task 7 & Task 8**.  
+A responsive **freelancer portfolio website** built with **React** and **Tailwind CSS**.   
 
 ---
 
@@ -51,7 +50,7 @@ freelancer-portfolio/
 1. *Clone the repository*  
    bash
    ```
-   git clone https://github.com/your-username/freelancer-portfolio.git
+   git clone https://github.com/Soha-025/freelancer-portfolio.git
    cd freelancer-portfolio
    ```
 2. Install dependencies
@@ -67,5 +66,5 @@ freelancer-portfolio/
    http://localhost:5173/
    ```
    ---
-```
----
+   
+✨ Crafted with passion and precision to showcase creativity, skills, and growth throughout the Codantix Internship journey. ✨
