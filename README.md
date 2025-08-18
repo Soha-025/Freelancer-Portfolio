@@ -1,12 +1,67 @@
-# React + Vite
+# 🌐 Freelancer Portfolio  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **freelancer portfolio website** built with **React** and **Tailwind CSS**.  
+This project was created as part of **Codantix Internship – Task 7 & Task 8**.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
+- 📱 Responsive design for all screen sizes  
+- 🧩 Modular components: Navbar, Hero, About, Projects, Footer  
+- 🎨 Hero & About sections with **custom styling**  
+- 🗂 Reusable **Project Cards** using data/props  
+- 📂 Clean folder-based architecture  
+- 📝 Planned layout using wireframes (Notion/Figma)  
+- 🎀 Styled with **Tailwind CSS**  
+- 🔄 Incremental updates pushed to GitHub  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack  
+- ⚛️ React – Frontend library  
+- 🎨 Tailwind CSS – Utility-first CSS framework  
+- ⚡ Vite – Development & build tool  
+
+---
+
+## 📂 Folder Structure
+
+freelancer-portfolio/
+│── public/
+│   └── images/         # Project images (P2.jpg, E1.jpg etc.)
+│── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── ProjectCard.jsx
+│   │   ├── Projects.jsx
+│   │   └── Footer.jsx
+│   ├── App.jsx
+│   └── main.jsx
+│── index.html
+│── package.json
+│── postcss.config.js
+│── tailwind.config.js
+
+---
+
+## ⚙ How to Run  
+
+1. *Clone the repository*  
+   bash
+   git clone https://github.com/your-username/freelancer-portfolio.git
+   cd freelancer-portfolio
+2. Install dependencies
+
+npm install
+
+3. Start development server
+   
+npm run dev
+
+5. Open in browser
+
+http://localhost:5173/
+```
+---
