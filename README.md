@@ -50,18 +50,22 @@ freelancer-portfolio/
 
 1. *Clone the repository*  
    bash
+   ```
    git clone https://github.com/your-username/freelancer-portfolio.git
    cd freelancer-portfolio
+   ```
 2. Install dependencies
-
-npm install
-
+   ```
+   npm install
+   ```
 3. Start development server
-   
-npm run dev
-
+   ```
+   npm run dev
+   ```
 5. Open in browser
-
-http://localhost:5173/
+   ```
+   http://localhost:5173/
+   ```
+   ---
 ```
 ---
